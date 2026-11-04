@@ -1,0 +1,7 @@
+a,b=map(int,input().split())
+print('tong',a+b)
+print('hieu',a-b)
+print('tich',a*b)
+print('phan nguyen cua thuong',a//b)
+print('phan du cua thuong',a%b)
+print('ket qua thuc cua thuong',f'{a/b:.2f}')

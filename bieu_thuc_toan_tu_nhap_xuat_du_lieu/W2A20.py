@@ -1,0 +1,1 @@
+print('january\nfebrary\nmarch\napril\nmay\njune\njuly\naugust\nseptember\noctober\nnovember\ndecember')

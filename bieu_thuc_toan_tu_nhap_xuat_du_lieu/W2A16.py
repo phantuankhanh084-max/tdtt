@@ -1,0 +1,5 @@
+print("Spring\nSummer\nAutumn\nWinter")
+print("Spring") 
+print("Summer") 
+print("Autumn") 
+print("Winter")
